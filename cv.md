@@ -5,7 +5,7 @@ layout: cv
 
 <br/>
 
-### 2019-Present
+### June 2019-Present
 Developing industry leading Retail Analytics software using C# and SQL. Also assisted with frontend development using Razor + Html/CSS/Javascript.
 
 <br/>
@@ -15,12 +15,19 @@ Attended University of Leeds studying Mathematics, achieving a certificate of hi
 
 <br/>
 
-### Other skills
-- Game/tool development in unity
-- 3D modelling in blender
-- Unreal engine
-- Gamemaker Studio 2
+### Skills
+- C# development with experience in console apps, forms, ASP.NET and Unity
+- Experience writing SQL queries and managing multiple production SQL databases
+- Game/tool development in unity (intermediate skill level, have created a number of small hobby projects and one major community project)
+- Basic knowledge of web development using HTML/CSS, and more significant experience with JavaScript programming site behaviour, as well as a single page internal tool using Fabric.js. 
+- Unreal Engine 5 (Created basic demos using blueprints)
+- Gamemaker Studio 2 (Created game prototypes)
+
+<br/>
+
+### Non-programming skills
 - Intermediate Japanese (Passed JLPT N3)
+- 3D modelling in blender (amateur level)
 
 <br/>
 
