@@ -11,7 +11,7 @@ Developing industry leading Retail Analytics software using C# and SQL. Also ass
 <br/>
 
 ### Education
-Attended leeds university studying Mathematics, achieving a certificate of higher education.
+Attended University of Leeds studying Mathematics, achieving a certificate of higher education.
 
 <br/>
 
