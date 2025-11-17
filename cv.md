@@ -17,8 +17,10 @@ Attended University of Leeds studying Mathematics, achieving a certificate of hi
 
 ### Skills
 - C# development with experience in console apps, forms, ASP.NET and Unity
+- Management and deployment of application resources in Azure, including app services, virtual machines and databases
+- CI/CD using Azure DevOps
 - Experience writing SQL queries and managing multiple production SQL databases
-- Game/tool development in unity (intermediate skill level, have created a number of small hobby projects and one major community project)
+- Game/tool development in unity (intermediate skill level, including a number of small hobby projects and one major community project)
 - Basic knowledge of web development using HTML/CSS, and more significant experience with JavaScript programming site behaviour, as well as a single page internal tool using Fabric.js. 
 - Unreal Engine 5 (Created basic demos using blueprints)
 - Gamemaker Studio 2 (Created game prototypes)
