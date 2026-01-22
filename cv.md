@@ -6,7 +6,8 @@ layout: cv
 <br/>
 
 ### June 2019-Present
-Developing industry leading Retail Analytics software using C# and SQL. Also assisted with frontend development using Razor + Html/CSS/Javascript.
+Developing industry leading Retail Analytics software using C# and SQL. Carried out migration of production application to .NET Core from .NET Framework. Made a large number of general improvements to help streamline both the development and user experience.
+Also assisted with frontend development using Razor + Html/CSS/Javascript, including a single page internal tool using Fabric.js. 
 
 <br/>
 
@@ -16,7 +17,7 @@ Developing industry leading Retail Analytics software using C# and SQL. Also ass
 - CI/CD using Azure DevOps
 - Experience writing SQL queries and managing multiple production SQL databases
 - Game/tool development in unity (intermediate skill level, including a number of small hobby projects and one major community project)
-- Basic knowledge of web development using HTML/CSS, and more significant experience with JavaScript programming site behaviour, as well as a single page internal tool using Fabric.js. 
+- Basic knowledge of web development using HTML/CSS, and more significant experience with JavaScript programming site behaviour
 - Unreal Engine 5 (Created basic demos using blueprints)
 - Gamemaker Studio 2 (Created game prototypes)
 
