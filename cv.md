@@ -10,11 +10,6 @@ Developing industry leading Retail Analytics software using C# and SQL. Also ass
 
 <br/>
 
-### Education
-Attended University of Leeds studying Mathematics, achieving a certificate of higher education.
-
-<br/>
-
 ### Skills
 - C# development with experience in console apps, forms, ASP.NET and Unity
 - Management and deployment of application resources in Azure, including app services, virtual machines and databases
@@ -30,6 +25,11 @@ Attended University of Leeds studying Mathematics, achieving a certificate of hi
 ### Non-programming skills
 - Intermediate Japanese (Passed JLPT N3)
 - 3D modelling in blender (amateur level)
+
+<br/>
+
+### Education
+Attended University of Leeds studying Mathematics, achieving a certificate of higher education.
 
 <br/>
 
