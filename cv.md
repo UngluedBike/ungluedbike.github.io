@@ -24,7 +24,7 @@ Also assisted with frontend development using Razor + Html/CSS/Javascript, inclu
 <br/>
 
 ### Non-programming skills
-- Intermediate Japanese (Passed JLPT N3)
+- Intermediate Japanese (Passed JLPT N2)
 - 3D modelling in blender (amateur level)
 
 <br/>
